@@ -1,0 +1,3 @@
+python-dotenv==0.21.0
+redmail==0.4.2
+tqdm==4.62.3
